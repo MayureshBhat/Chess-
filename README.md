@@ -4,11 +4,17 @@ A fully functional two-player Chess game built from scratch using vanilla web te
 
 🔥 Features
 ♟️ 8x8 Interactive Chessboard
+
 🔁 Turn-based system (White & Black)
+
 ✅ Legal move validation
+
 ✨ Smooth UI with CSS Grid
+
 🧠 Clean logic without any external game engine
+
 🖱️ Piece selection and highlighting
+
 🚫 Invalid move prevention
 
 🛠️ Tech Stack
