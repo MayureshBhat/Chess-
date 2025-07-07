@@ -39,8 +39,11 @@ No setup or installation is required. Just open and play ✅
 /chess-game/
 │
 ├── index.html      # Main HTML file
+
 ├── style.css       # CSS styles for board and pieces
+
 ├── script.js       # JavaScript logic for moves, turns, updates
+
 └── README.md       # You're here!
 
 🎯 What I Learned
