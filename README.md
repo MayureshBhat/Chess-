@@ -37,7 +37,9 @@ No setup or installation is required. Just open and play ✅
 
 📂 Folder Structure
 /chess-game/
+
 │
+
 ├── index.html      # Main HTML file
 
 ├── style.css       # CSS styles for board and pieces
